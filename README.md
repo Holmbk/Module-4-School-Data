@@ -20,8 +20,7 @@ There is no significant difference between the scores with or without the ninth 
 #### Scores by school spending
 There was no affect.
 ![school spending](https://user-images.githubusercontent.com/98991575/175390044-7543c2de-3d6f-4669-b537-1a4b7ef4b0fc.png)
-![Chall Sum](https://user-images.githubusercontent.com/98991575/175390107-d6239084-7c46-49bd-ba18-cdb7cade5a48.png)
-
+![Chall Spend](https://user-images.githubusercontent.com/98991575/175390738-93240136-3a17-4420-ac01-98f1734ef782.png)
 
 #### Scores by school size
 
