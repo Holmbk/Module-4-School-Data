@@ -10,12 +10,19 @@ There is no significant difference between the scores with or without the ninth 
 ![Chall Sum](https://user-images.githubusercontent.com/98991575/175387318-4277f5cb-d480-4b3f-8c2d-ea923f7825f4.png)
 
 ### How is the School Summary Affected?
+There is no significant difference.
 
 ### How does replacing the ninth graders' math and reading scores affect Thomas HighSchool's performance related to the other schools?
+The passing percentages decrease from the 90's to the 60's.
+All other items remain the same.
+![school perc](https://user-images.githubusercontent.com/98991575/175395196-365c159c-5dc0-4609-824a-e0c23d1c29f2.png)
+![Chal per](https://user-images.githubusercontent.com/98991575/175395218-b53dc6c0-07bd-4682-b368-9d3766cca7ac.png)
+
+
 
 ### How does replacing the ninth-grade scores affect the following:
-
 #### Math and reading scores by grade
+There wasn't any difference in the math and reading scores by grade other than Thomas High School didn't have a grade listed for the ninth grade.
 
 #### Scores by school spending
 There was no affect.
@@ -23,7 +30,9 @@ There was no affect.
 ![Chall Spend](https://user-images.githubusercontent.com/98991575/175390738-93240136-3a17-4420-ac01-98f1734ef782.png)
 
 #### Scores by school size
+There wasn't any difference.
 
 #### Scores by school type
+The only difference shows up in the charter school type summary were the grades are different two places to the right of the deciminal.
 
 ## Summary
