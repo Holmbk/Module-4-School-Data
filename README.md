@@ -19,7 +19,6 @@ All other items remain the same.
 ![Chal per](https://user-images.githubusercontent.com/98991575/175395218-b53dc6c0-07bd-4682-b368-9d3766cca7ac.png)
 
 
-
 ### How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
 There wasn't any difference in the math and reading scores by grade other than Thomas High School didn't have a grade listed for the ninth grade.
@@ -36,3 +35,4 @@ There wasn't any difference.
 The only difference shows up in the charter school type summary were the grades are different two places to the right of the deciminal.
 
 ## Summary
+The biggest change to replacing the Thomas High School ninth grade math and reading scores with NaNs was that the percentages of passing students drop from the 90% to 60%.  The changes in the summary only showes for the Charter in two places to the right of the deceminal for the math average and reading average.
